@@ -1,0 +1,36 @@
+/* Importing a Google Font */
+
+/* Changing the main font and background colour */
+
+
+body {
+	
+	font-family: 'Pacifico', cursive; 
+	color:#548c68;
+	background-color: #F2e1ac;
+}
+
+/* Changing the background colour for the header */
+
+header {
+	background-color: #f2784b;
+}
+
+/* Changing the background color for the navigation bar */
+
+.navbar {
+	background-color: #f2784b;
+}
+
+/* Effect on social media buttons */
+
+footer a:hover {
+	opacity: .5;
+}
+
+/* Corporate navbar */
+
+#navbar-corporate a.active {
+	color: #800000;
+	font-weight: bold;
+}
